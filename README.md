@@ -4,4 +4,4 @@ Inventory Management System
 
 Run login.py for initiaiting the project.
 
-Username and password are fixed.
+Username and password upon request.
